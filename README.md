@@ -4,6 +4,12 @@ Probably this code can be port to touchdesigner using Script top with Script cho
 Another solution is to send the data over osc or any other comunicaton protocol like websocket
 
 
+# blobTrackingIRFeed.py
+This is using an IR feed, few changes made from the other blob tracking. 
+No background subtraction 
+Directly isolate bright spots in the grayscale IR
+
+
 
 # blobTrackingRealSenseIR.py 
  better to use a virtual env like conda #
