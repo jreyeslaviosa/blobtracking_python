@@ -5,11 +5,11 @@ Another solution is to send the data over osc or any other comunicaton protocol 
 
 
 
-#### blobTrackingRealSenseIR.py ###
-# better to use a virtual env like conda #
+# blobTrackingRealSenseIR.py 
+ better to use a virtual env like conda #
 
-# pip install pyrealsense2
+ pip install pyrealsense2
 
-# Like the other examples the threshold values has to be tweaked depending of the reflectivity of the IR emitter. 
-# Better to add an UI system to tweak the threshold values
+ Like the other examples the threshold values has to be tweaked depending of the reflectivity of the IR emitter. 
+ Better to add an UI system to tweak the threshold values
 
